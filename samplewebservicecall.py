@@ -2,7 +2,7 @@
 import requests
 import json
 
-url='http://www.reddit.com/user/spilcm/comments/.json'
+url='http://www.google.com'
 
 response= requests.get(url, verify=False)
 
